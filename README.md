@@ -7,7 +7,7 @@
 | 编号 | 主题                                    | 日期         |
 | -- | ------------------------------------- | ---------- |
 | 00 | [注意力机制的由来：seq2seq 与 attention](notes/00-seq2seq-attention.md) | 2026-09-26 |
-| 01 | [注意力机制与下一个词预测](notes/01-attention.md) | 2026-09-26 |
+| 01 | [The Illustrated Transformer 核心笔记](notes/01-attention.md) | 2026-09-29 |
 
 ## 说明
 
