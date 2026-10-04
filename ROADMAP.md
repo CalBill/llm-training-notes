@@ -6,7 +6,7 @@
 
 - [x] [00 注意力机制的由来：seq2seq 与 attention](notes/00-seq2seq-attention.md)
 - [x] [01 The Illustrated Transformer 核心笔记](notes/01-attention.md)
-- [ ] 02 反向传播与损失函数（Karpathy：micrograd、makemore 第 1 部分）
+- [ ] 02 [反向传播与梯度下降](notes/02-backprop.md)：micrograd 已完成，交叉熵（makemore 第 1 部分）待补
 - [ ] 03 从零搭一个 GPT（Karpathy：Let's build GPT）
 - [ ] 04 [DeepSeek-V3 技术报告](https://arxiv.org/abs/2412.19437)：快读，只看整体概况和训练成本
 - [ ] 05 [DeepSeek-R1 技术报告](https://arxiv.org/abs/2501.12948)：重点看 GRPO、奖励设计和训练流程
