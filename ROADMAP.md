@@ -8,12 +8,13 @@
 - [x] [01 The Illustrated Transformer 核心笔记](notes/01-attention.md)
 - [x] 02 [反向传播与梯度下降](notes/02-backprop.md)：micrograd
 - [x] 03 [语言模型与交叉熵](notes/03-bigram-nll.md)：makemore 第 1 部分（bigram、NLL、softmax、平滑与正则化）
-- [ ] 04 从零搭一个 GPT（Karpathy：Let's build GPT）
+- [ ] 04 大模型全景：预训练、SFT 与强化学习（Karpathy：[Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)）
 - [ ] 05 [DeepSeek-V3 技术报告](https://arxiv.org/abs/2412.19437)：快读，只看整体概况和训练成本
 - [ ] 06 [DeepSeek-R1 技术报告](https://arxiv.org/abs/2501.12948)：重点看 GRPO、奖励设计和训练流程
+- [ ] 07 自注意力怎么算（Karpathy：[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)，选看自注意力部分）
 - [ ] 建立各家训练方法对比表
 
-视频资料：[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)（Andrej Karpathy）
+视频资料：[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)（Andrej Karpathy）；[Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)（Andrej Karpathy，全景介绍，不写代码）
 
 ## 阶段 1：数据与评测
 
