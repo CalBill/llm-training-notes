@@ -11,6 +11,7 @@
 | 00 | [注意力机制的由来：seq2seq 与 attention](notes/00-seq2seq-attention.md) | 2026-09-26 |
 | 01 | [The Illustrated Transformer 核心笔记](notes/01-attention.md) | 2026-09-29 |
 | 02 | [反向传播与梯度下降：micrograd](notes/02-backprop.md) | 2026-10-04 |
+| 03 | [语言模型与交叉熵：makemore（bigram）](notes/03-bigram-nll.md) | 2026-10-14 |
 
 ## 说明
 

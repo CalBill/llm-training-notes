@@ -6,10 +6,11 @@
 
 - [x] [00 注意力机制的由来：seq2seq 与 attention](notes/00-seq2seq-attention.md)
 - [x] [01 The Illustrated Transformer 核心笔记](notes/01-attention.md)
-- [ ] 02 [反向传播与梯度下降](notes/02-backprop.md)：micrograd 已完成，交叉熵（makemore 第 1 部分）待补
-- [ ] 03 从零搭一个 GPT（Karpathy：Let's build GPT）
-- [ ] 04 [DeepSeek-V3 技术报告](https://arxiv.org/abs/2412.19437)：快读，只看整体概况和训练成本
-- [ ] 05 [DeepSeek-R1 技术报告](https://arxiv.org/abs/2501.12948)：重点看 GRPO、奖励设计和训练流程
+- [x] 02 [反向传播与梯度下降](notes/02-backprop.md)：micrograd
+- [x] 03 [语言模型与交叉熵](notes/03-bigram-nll.md)：makemore 第 1 部分（bigram、NLL、softmax、平滑与正则化）
+- [ ] 04 从零搭一个 GPT（Karpathy：Let's build GPT）
+- [ ] 05 [DeepSeek-V3 技术报告](https://arxiv.org/abs/2412.19437)：快读，只看整体概况和训练成本
+- [ ] 06 [DeepSeek-R1 技术报告](https://arxiv.org/abs/2501.12948)：重点看 GRPO、奖励设计和训练流程
 - [ ] 建立各家训练方法对比表
 
 视频资料：[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)（Andrej Karpathy）
